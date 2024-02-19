@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": " nodemon app.js"
+  },
+  "author": "mahmd zsc",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "joi": "^17.12.1",
+    "mongoose": "^8.1.3",
+    "nodemon": "^3.0.3"
+  }
+}

@@ -1,0 +1,21 @@
+
+
+{
+  "firstName": "ahmed",
+  "lastName": "mahound",
+  "email": "moma8607914@gmail.com",
+  "password": "**********",
+  "age": 12,
+  "isAdmin": false,
+  "profilePhoto": {
+    "url": "https://cloud.mongodb.com/v2/65d2450a03f51d1ffab33f02.png",
+    "publicId": 353434654645
+  },
+  "quizzes_taken": [
+    {
+      "quiz_id": "integer",
+      "score": "integer",
+      "completed_at": "datetime"
+    }
+  ]
+}
